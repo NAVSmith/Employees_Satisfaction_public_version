@@ -1,4 +1,3 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Employee Satisfaction
 a data visualization project, based on real world data of a consulting company<br/>
