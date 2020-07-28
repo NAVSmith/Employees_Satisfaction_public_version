@@ -2,9 +2,6 @@
 # Employee Satisfaction
 a data visualization project, based on real world data of a consulting company<br/>
 <br/>
-*Nadav Smith, Ivy Ip, Lena Frommann*
-
-*DATA ft, BER, 11/19*
 
 ## Content
 - [Project Description](#project-description)
